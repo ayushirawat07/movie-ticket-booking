@@ -1,0 +1,10 @@
+# build output
+booking_system
+*.o
+*.out
+*.exe
+
+# OS/editor junk
+.DS_Store
+.vscode/
+*.swp
